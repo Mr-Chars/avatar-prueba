@@ -1,0 +1,1 @@
+export const URL_MAIN = "http://api.cup2022.ir/api/v1/";
